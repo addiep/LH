@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://addiep.github.io/LH/sitemap.xml
